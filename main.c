@@ -3,6 +3,9 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    int a,b;
+    a=10;
+    b=5;
+    printf("\n%d , %d",a,b); 
     return 0;
 }
