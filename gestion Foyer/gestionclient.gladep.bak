@@ -3,6 +3,6 @@
 
 <glade-project>
   <name>Gestion Foyer</name>
-  <program_name>gestionclient</program_name>
+  <program_name>gestion Foyer</program_name>
   <gnome_support>FALSE</gnome_support>
 </glade-project>
