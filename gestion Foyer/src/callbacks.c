@@ -80,7 +80,7 @@ success=lookup_widget(gestion,"label35");
 
  gtk_widget_hide (success);
 
-// controle saisie
+// controle saisie tache foyer
 if(strcmp(c.cin,"")==0){
 		  gtk_widget_show (labelCin);
 b=0;
